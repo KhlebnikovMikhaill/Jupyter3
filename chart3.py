@@ -2,7 +2,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 def plot_chart():
-	#plt.style.use('_mpl-gallery')
+    #plt.style.use('_mpl-gallery')
     # make data
     np.random.seed(1)
     x = np.linspace(0, 8, 16)
